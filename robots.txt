@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ubiquitous-florentine-f4a333.netlify.app/sitemap.xml
